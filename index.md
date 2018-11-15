@@ -10,3 +10,7 @@ If the accuser was wrong, the accuser skips a turn.
 In both cases, the accused player gets a new card.
 
 ## Cards:
+![f](fairy.png)
+![m](man.png)
+![s](snek.png)
+![z](zombie.png)
