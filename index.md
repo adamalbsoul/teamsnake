@@ -1,4 +1,4 @@
-# 🧚👨🐍🧟
+# **🧚👨🐍🧟**
 # Rules
 Players shuffle the cards and then each player takes 1 card. The card determines the player character. There are 4 characters- Human, Zombie, Fairy and Snake. The players keep it a secret which team they are.
 
