@@ -33,3 +33,5 @@ In both cases, the accused player gets a new card.
 ### “Fart-burps shine on all of us, don’t they?”
 
 ### “Excuse me, would you mind if we touched palms right now so that the heel of my hand touched the heel of your hand and all of our finger pads were touching each other?”
+
+### "Potatoes have skin. I have skin. Therefore, I am a potato."
