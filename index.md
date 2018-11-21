@@ -13,13 +13,16 @@ If the accuser was wrong, the accuser skips a turn and takes a slip out of the d
 In both cases, the accused player shows their card and takes a new card from the deck.
 
 ## Characters:
-</br>
+
 **Fairy**: When you roll a 1 move 6 squares, When you roll a 6 move 1 square
-</br>
+
+
 **Human**: Climbs up ladders, Falls down snake heads
-</br>
+
+
 **Snake**: Climbs up tails of snakes, Falls down ladders
-</br>
+
+
 **Zombie**: Ignore both snakes and ladders, but you can't move if you roll a 4, 5 or 6
 
 ## Bonus rule:
