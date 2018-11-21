@@ -10,7 +10,7 @@ If a player suspects that another player is **bluffing**, he/she can call him/he
 If the accuser was right about the bluff, the accused player skips a turn and takes a slip out of the deck of shame to read out **loud**.
 If the accuser was wrong, the accuser skips a turn and takes a slip out of the deck of shame to read out **loud**.
 
-In both cases, the accused player gets a new card.
+In both cases, the accused player shows his card takes a new card from the deck.
 
 ## Character Cards:
 ![f](fairy.png)
