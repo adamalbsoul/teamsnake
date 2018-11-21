@@ -14,9 +14,15 @@ In both cases, the accused player shows their card and takes a new card from the
 
 ## Characters:
 **Fairy**: When you roll a 1 move 6 squares, When you roll a 6 move 1 square
+---
 **Human**: Climbs up ladders, Falls down snake heads
+---
 **Snake**: Climbs up tails of snakes, Falls down ladders
+---
 **Zombie**: Ignore both snakes and ladders, but you can't move if you roll a 4, 5 or 6
+
+## Bonus rule:
+When a 6 is rolled all the character cards are shuffled.
 
 ## Character Cards:
 ![f](fairy.png)
